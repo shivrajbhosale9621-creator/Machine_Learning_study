@@ -51,4 +51,4 @@ This portfolio demonstrates proficiency in a wide range of machine learning tech
 * **Hyperparameter Tuning**: Optimizing model performance using **GridSearchCV** to find the best parameters.  
 * **Model Persistence**: Saving and loading trained models using joblib for future use.
 
-![Alt Text]("C:\Users\Shivraj\Downloads\licensed-image.jpg")
+[Image of a machine learning workflow diagram](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR6RjrSRs7f4EQe7qF2SEZWO-WhIvBRp3Rzb0MMkb09kEyS04KhICTWAGE6Oj47d_IJFE4EdtJN7-9j_XOufSi03aPN62Lmkfvx6GWlCcE_denEjT0)
